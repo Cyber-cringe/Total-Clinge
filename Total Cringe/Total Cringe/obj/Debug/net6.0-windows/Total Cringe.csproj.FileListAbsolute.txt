@@ -37,3 +37,36 @@ C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\De
 C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.CreationForm.resources
 C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.DeleteForm.resources
 C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\bin\Debug\net6.0-windows\Total Cringe.exe
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\bin\Debug\net6.0-windows\Total Cringe.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\bin\Debug\net6.0-windows\Total Cringe.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\bin\Debug\net6.0-windows\Total Cringe.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\bin\Debug\net6.0-windows\Total Cringe.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPDXMLib.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPLauncher.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.csproj.ResolveComReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.CreationForm.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.DeleteForm.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.MainForm.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.MusicForm.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.Realisation.resources
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\refint\Total Cringe.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total-Clinge\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\ref\Total Cringe.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPDXMLib.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Interop.WMPLauncher.dll
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total Cringe.csproj.ResolveComReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Total Cringe\Total Cringe\obj\Debug\net6.0-windows\Total_Cringe.MusicForm.resources

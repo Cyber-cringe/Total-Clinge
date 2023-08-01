@@ -36,7 +36,18 @@ namespace Total_Cringe
         }
         private void listBox1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
+            string? way = ContentBox.SelectedItem.ToString();
+            string? extension = System.IO.Path.GetExtension(way);
+            string? allow = ".mp3";
             if (ContentBox.SelectedItem == null) return;
+            if (extension != null)
+            {
+                if (extension == allow)
+                {
+                    MusicForm musicForm = new MusicForm(ContentBox.SelectedItem.ToString());
+                    musicForm.Show();
+                }
+            }
             if (ContentBox.SelectedItem.ToString().StartsWith("[Directory]"))
             {
                 WayBox.Text = ContentBox.SelectedItem.ToString().Remove(0, 11);
